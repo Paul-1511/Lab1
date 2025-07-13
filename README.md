@@ -26,3 +26,5 @@ Ejecuta el comando
 ```
 cargo run
 ```
+
+Al hacer esto se creara la imagen con los polígonos con nombre `out.png`
